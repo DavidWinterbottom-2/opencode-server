@@ -1,0 +1,8 @@
+{
+  "name": "opencode-server",
+  "private": true,
+  "description": "Pins the exact opencode-ai dependency tree baked into this image.",
+  "dependencies": {
+    "opencode-ai": "1.18.31"
+  }
+}
